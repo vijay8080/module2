@@ -1,0 +1,13 @@
+.container {
+	border: 2px solid green;
+}
+
+.chickenbg, .beefbg, .sushibg{
+	border: 2px solid black;
+	width: 100px;
+	float:right;
+	text-align: center; {
+}
+#title {
+	text-align: center;
+}
